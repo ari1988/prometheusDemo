@@ -4,7 +4,12 @@
   "description": "",
   "repository": "git@github.com:richardhuber/prometheusDemo.git",
   "license": "ISC",
+  "private": true,
   "dependencies": {
     "promjs": "^0.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
   }
 }
