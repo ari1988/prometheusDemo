@@ -1,0 +1,10 @@
+{
+  "name": "webclient",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "git@github.com:richardhuber/prometheusDemo.git",
+  "license": "ISC",
+  "dependencies": {
+    "promjs": "^0.4.0"
+  }
+}
